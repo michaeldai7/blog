@@ -1,11 +1,11 @@
 # Basic
-title: 网络安全联盟在线文档
-subtitle: 突破限制，访问资源
-welcome_message: <a href="/2018/08/使用说明列表/" target="_blank">文档目录</a>
+title: Michael Dai's Blog
+subtitle: 记录生活
+welcome_message: <a href="/2018/08/使用说明列表/" target="_blank"></a>
 #description: Vno Jekyll is a port of my Ghost theme vno.
 #creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://ddxs.github.io"
+url: "https://michaeldai7.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -13,16 +13,16 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
-    title: 使用文档
-    description: 在线教程
+    title: 日志
+    description: 查看日志
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 返回主页, description: 网络安全联盟 主页, url: 'https://www.7x24hrs.com'}
+    - {title: 返回主页, description: Michael Dai的主页, url: 'https://www.michaeldai.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    facebook: daigang0701@gmail.com
-    github: ddxs
-    twitter: daigang0701@gmail.com
-    gplus: daigang0701@gmail.com
-    mail: support@vpnpro.me
+    facebook: michealxia7@gmail.com
+    github: michaeldai7
+    twitter: michealxia7@gmail.com
+    gplus: michealxia7@gmail.com
+    mail: michealxia7@gmail.com
 
 # Google Analytics
 ga:
